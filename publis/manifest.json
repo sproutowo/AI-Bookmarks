@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "AI Smart Bookmarks & Sync",
+  "version": "1.1",
+  "description": "A comprehensive bookmark manager with AI auto-classification, WebDAV sync, and Side Panel support.",
+  "permissions": [
+    "bookmarks",
+    "storage",
+    "unlimitedStorage",
+    "tabs",
+    "activeTab",
+    "sidePanel",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_title": "Open AI Bookmarks"
+  },
+  "side_panel": {
+    "default_path": "index.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'"
+  }
+}

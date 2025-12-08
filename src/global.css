@@ -1,0 +1,24 @@
+/* src/global.css */
+
+/* 1. 引入 Tailwind 的核心指令 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 2. 迁移您在 index.html 中的自定义滚动条样式 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+/* ... (省略其余滚动条样式，请根据您的原代码补充) */
+
+/* 3. 设置基础背景色，避免页面全白 */
+body {
+    background-color: #ffffff;
+}
+.dark body {
+    background-color: #1f2937; /* 对应深色模式背景 */
+}

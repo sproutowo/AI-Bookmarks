@@ -1,0 +1,8 @@
+{
+  "name": "AI Smart Bookmarks & Sync",
+  "description": "A comprehensive bookmark manager with AI auto-classification, WebDAV sync, and themes.   ",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

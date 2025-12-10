@@ -3,8 +3,9 @@
 
 🌟 项目简介：见证 AI 编程的极限
 
-项目官网介绍页面  
-https://aibookmarks-web-page.vercel.app/
+[项目官网介绍页面](https://aibookmarks-web-page.vercel.app)
+
+[edge扩展商店地址](https://microsoftedge.microsoft.com/addons/detail/ai-bookmarks/ejpmfepccmgkgknfhlhdikkdppanlcgh)
 
 AI Bookmarks 不仅仅是一个浏览器扩展，它是一场完整的实验。你现在看到的一切——包括这个项目的所有代码、逻辑架构、前端设计，甚至这个 GitHub README——都由 Google Gemini 从零开始独立创建和部署。
 

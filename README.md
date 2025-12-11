@@ -3,7 +3,7 @@
 
 🌟 项目简介：见证 AI 编程的极限
 
-[项目官网介绍页面](https://aibookmarks-web-page.vercel.app)
+[项目官网介绍页面](https://aibookmarks.netlify.app/)
 
 [edge扩展商店地址](https://microsoftedge.microsoft.com/addons/detail/ai-bookmarks/ejpmfepccmgkgknfhlhdikkdppanlcgh)
 
